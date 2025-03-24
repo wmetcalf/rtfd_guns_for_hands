@@ -5,7 +5,7 @@ https://blog.simonrodriguez.fr/articles/2015/09/nsfilewrapper_serializedrepresen
 # Install 
 pip3 install git+https://github.com/wmetcalf/rtfd_guns_for_hands.git
 
-# Usage
+# Usage (This might be complete garbage use at your own risk YMMV)
 ```
 rtfd-guns-parse /home/coz/Downloads/6d71b42135cbc61bc7991b43f86ddc6e0fcc563d11a76fa323bc7633678d244b.doc --extract-dir=poopship8 --json-out results.json
 DEBUG: Found 'rtfd' at the start; skipping 4 bytes.
