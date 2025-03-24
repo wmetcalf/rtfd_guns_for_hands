@@ -5,7 +5,7 @@ setup(
     name="rtfd_guns_for_hands",
     version="0.2.0",
     description="Parser for RTFD 'guns for hands' combined marker blocks with padded file data",
-    author="Node5",
+    author="Node5,adepasquale",
     packages=find_packages(),
     install_requires=[
         "python-magic",
