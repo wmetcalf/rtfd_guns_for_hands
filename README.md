@@ -1,5 +1,6 @@
 # rtfd_guns_for_hands
 https://www.youtube.com/watch?v=Pmv8aQKO6k0
+https://blog.simonrodriguez.fr/articles/2015/09/nsfilewrapper_serializedrepresentation.html
 
 # Install 
 pip3 install git+https://github.com/wmetcalf/rtfd_guns_for_hands.git
